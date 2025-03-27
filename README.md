@@ -1,2 +1,2 @@
 # JokeBot
-A bot that tells jokes, API test
+A Discord bot that communicates with DiscAPI to send jokes!
